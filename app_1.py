@@ -5,6 +5,7 @@ import pandas as pd
 import tensorflow as tf
 import random
 import os
+import time
 import pandas_ta as ta
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics import mean_squared_error
