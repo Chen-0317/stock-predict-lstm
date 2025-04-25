@@ -5,4 +5,4 @@ pandas
 tensorflow
 scikit-learn
 plotly
-pandas-ta
+pandas_ta
